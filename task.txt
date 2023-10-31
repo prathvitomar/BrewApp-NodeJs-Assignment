@@ -1,0 +1,11 @@
+Creating RestFul API:
+
+GET api/books - Shows all the books.
+
+GET api/books/:id - Shows specific book by id.
+
+POST api/books/:id - Adds books.
+
+PATCH api/books/:id - Update specific book by id.
+
+DELETE api/books/:id - Delete specific book by id.
